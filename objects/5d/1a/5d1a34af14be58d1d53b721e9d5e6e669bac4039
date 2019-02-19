@@ -1,0 +1,8 @@
+#removeMultiTool
+recipes.remove(<aroma1997sdimension:portalIgniter>);
+
+#addMultiToolRecipe
+recipes.addShaped(<aroma1997sdimension:portalIgniter>,
+ [[<extrautils2:compressedcobblestone:2>, <enderio:itemColdFireIgniter>, <extrautils2:compressedcobblestone:2>],
+  [null, <botania:manasteelPick>,null],
+  [null, <avaritia:resource:5>, null]]);

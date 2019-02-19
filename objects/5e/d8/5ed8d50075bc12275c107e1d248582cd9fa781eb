@@ -1,0 +1,15 @@
+#removeExtremeCrafting
+mods.avaritia.ExtremeCrafting.remove(<avaritia:infinity_helmet>);
+mods.avaritia.ExtremeCrafting.remove(<avaritia:infinity_chestplate>);
+mods.avaritia.ExtremeCrafting.remove(<avaritia:skullfire_sword>);
+mods.avaritia.ExtremeCrafting.remove(<avaritia:infinity_pants>);
+mods.avaritia.ExtremeCrafting.remove(<avaritia:infinity_boots>);
+mods.avaritia.ExtremeCrafting.remove(<avaritia:infinity_sword>);
+mods.avaritia.ExtremeCrafting.remove(<avaritia:infinity_pickaxe>.withTag({ench: [{lvl: 10 as short, id: 35 as short}]}));
+mods.avaritia.ExtremeCrafting.remove(<avaritia:infinity_bow>);
+mods.avaritia.ExtremeCrafting.remove(<avaritia:infinity_axe>);
+mods.avaritia.ExtremeCrafting.remove(<avaritia:infinity_shovel>);
+
+#addExtremeShaped
+
+

@@ -1,0 +1,50 @@
+[ 
+ {
+        "mode": "REMOVE",
+        "result": "draconicevolution:draconic_helm",
+        "catalyst": "draconicevolution:wyvern_helm",
+        "ingredients": [
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:awakened_core",
+            "draconicevolution:draconic_energy_core"
+        ]
+    },
+    
+{
+        "mode": "REMOVE",
+        "result": "draconicevolution:draconic_chest",
+        "catalyst": "draconicevolution:wyvern_chest",
+        "ingredients": [
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:awakened_core",
+            "draconicevolution:draconic_energy_core"
+        ]
+    },
+      
+{
+        "mode": "REMOVE",
+        "result": "draconicevolution:draconic_legs",
+        "catalyst": "draconicevolution:wyvern_legs",
+        "ingredients": [
+             "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:awakened_core",
+            "draconicevolution:draconic_energy_core"
+        ]
+    },
+       
+{
+        "mode": "REMOVE",
+        "result": "draconicevolution:draconic_boots",
+        "catalyst": "draconicevolution:wyvern_boots",
+        "ingredients": [
+             "draconicevolution:draconic_ingot",
+            "draconicevolution:draconic_ingot",
+            "draconicevolution:awakened_core",
+            "draconicevolution:draconic_energy_core"
+        ]
+    },
+
+]  	
