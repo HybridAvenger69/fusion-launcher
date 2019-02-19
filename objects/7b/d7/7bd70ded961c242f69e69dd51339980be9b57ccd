@@ -1,0 +1,9 @@
+#removeMaster
+recipes.remove(<mysticalagriculture:master_infusion_crystal>);
+
+
+#addShaped
+recipes.addShaped(<mysticalagriculture:master_infusion_crystal>,
+ [[<mysticalagriculture:base_essence_ingot_block>, <mysticalagriculture:supremium_block>, <mysticalagriculture:base_essence_ingot_block>],
+  [<mysticalagriculture:supremium_block>, <minecraft:nether_star>,<mysticalagriculture:supremium_block>],
+  [<mysticalagriculture:base_essence_ingot_block>, <mysticalagriculture:supremium_block>, <mysticalagriculture:base_essence_ingot_block>]]);
